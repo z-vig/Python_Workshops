@@ -1,0 +1,2 @@
+m3g20090417t193320_v01_rfl.hdr filter=lfs diff=lfs merge=lfs -text
+m3g20090417t193320_v01_rfl.img filter=lfs diff=lfs merge=lfs -text
